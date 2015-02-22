@@ -19,3 +19,4 @@
 #Clickonce related
 *.manifest binary
 *.deploy binary
+*.application binary
