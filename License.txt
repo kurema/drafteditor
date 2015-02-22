@@ -1,0 +1,118 @@
+**このソフト及びソースコードについて**
+DotNetZip及びOpen XML SDK以外には、以下の修正BSDライセンスが適用されます。
+Draft Editor
+Copyright (c) 2012, kurema
+All rights reserved.
+
+Redistribution and use in source and binary forms, with or without modification, are permitted provided that the following conditions are met:
+
+1. Redistributions of source code must retain the above copyright notice, this list of conditions and the following disclaimer.
+2. Redistributions in binary form must reproduce the above copyright notice, this list of conditions and the following disclaimer in the documentation and/or other materials provided with the distribution.
+THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS "AS IS" AND ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE ARE DISCLAIMED. IN NO EVENT SHALL THE COPYRIGHT HOLDER OR CONTRIBUTORS BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES; LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
+
+**DotNetZipに関するライセンス**
+DotNetZip(Ionic.Zip.dll)は以下のライセンスで公開されています。
+
+Microsoft Public License (Ms-PL)
+
+This license governs use of the accompanying software, the DotNetZip library ("the software"). If you use the software, you accept this license. If you do not accept the license, do not use the software.
+
+1. Definitions
+
+The terms "reproduce," "reproduction," "derivative works," and "distribution" have the same meaning here as under U.S. copyright law.
+
+A "contribution" is the original software, or any additions or changes to the software.
+
+A "contributor" is any person that distributes its contribution under this license.
+
+"Licensed patents" are a contributor's patent claims that read directly on its contribution.
+
+2. Grant of Rights
+
+(A) Copyright Grant- Subject to the terms of this license, including the license conditions and limitations in section 3, each contributor grants you a non-exclusive, worldwide, royalty-free copyright license to reproduce its contribution, prepare derivative works of its contribution, and distribute its contribution or any derivative works that you create.
+
+(B) Patent Grant- Subject to the terms of this license, including the license conditions and limitations in section 3, each contributor grants you a non-exclusive, worldwide, royalty-free license under its licensed patents to make, have made, use, sell, offer for sale, import, and/or otherwise dispose of its contribution in the software or derivative works of the contribution in the software.
+
+3. Conditions and Limitations
+
+(A) No Trademark License- This license does not grant you rights to use any contributors' name, logo, or trademarks.
+
+(B) If you bring a patent claim against any contributor over patents that you claim are infringed by the software, your patent license from such contributor to the software ends automatically.
+
+(C) If you distribute any portion of the software, you must retain all copyright, patent, trademark, and attribution notices that are present in the software.
+
+(D) If you distribute any portion of the software in source code form, you may do so only under this license by including a complete copy of this license with your distribution. If you distribute any portion of the software in compiled or object code form, you may only do so under a license that complies with this license.
+
+(E) The software is licensed "as-is." You bear the risk of using it. The contributors give no express warranties, guarantees or conditions. You may have additional consumer rights under your local laws which this license cannot change. To the extent permitted under your local laws, the contributors exclude the implied warranties of merchantability, fitness for a particular purpose and non-infringement. 
+
+**Open XML SDK について**
+Open XML SDK(DocumentFormat.OpenXml.dll)に関しては、以下のライセンスにしたがって再頒布されています。
+再頒布等される場合は以下のライセンスを十分配慮してください。
+
+****Open XML SDK について****
+マイクロソフト ソフトウェア ライセンス条項
+OPEN XML SDK 2.0 FOR MICROSOFT OFFICE 
+本マイクロソフト ソフトウェア ライセンス条項 (以下、「本ライセンス条項」といいます) は、お客様と Microsoft Corporation (またはお客様の所在地に応じた関連会社。以下、「マイクロソフト」といいます) との契約を構成します。以下のライセンス条項をお読みください。本ライセンス条項は、上記のソフトウェアおよびソフトウェアが記録されたメディア (以下総称して「本ソフトウェア」といいます) に適用されます。また、本ライセンス条項は本ソフトウェアに関連する下記マイクロソフト製品にも適用されるものとします。
+・	更新プログラム
+・	追加ソフトウェア
+・	インターネットベースのサービス
+・	サポート サービス
+ただし、これらの製品に別途ライセンス条項が付属している場合は、当該ライセンス条項が適用されるものとします。
+本ソフトウェアを使用することにより、お客様は本ライセンス条項に同意されたものとします。本ライセンス条項に同意されない場合、本ソフトウェアを使用することはできません。
+お客様がこれらのライセンス条項を遵守することを条件として、お客様には以下が許諾されます。
+1.	インストールおよび使用に関する権利。お客様は、本ソフトウェアの任意の部数の複製をお客様のデバイスにインストールして使用することができます。
+2.	追加のライセンス条件および追加の使用権
+a.	再頒布可能ソフトウェア。お客様は、以下の条項に従う場合に限り、お客様が開発されたプログラムと共に本ソフトウェアを再頒布することができます。本ソフトウェア (サンプル コードを含む) は、「再頒布可能ソフトウェア」です。
+i.	コードを改変する権利。
+・	サンプル コード。お客様は、「sample」のマークが付いたコードのソース コードおよびオブジェクト コードを改変、コピーおよび頒布することができます。
+ii.	第三者による再頒布。
+・	第三者による再頒布。お客様は、お客様のプログラムの頒布者に対して、お客様のプログラムの一部として再頒布可能ソフトウェアの複製および頒布を許可することができます。
+iii.	再頒布の条件。お客様は、お客様が頒布するすべての再頒布可能ソフトウェアについて、以下のことを遵守してください。
+・	お客様のプログラムにおいて再頒布可能コードに重要かつ主要な機能を追加すること。
+・	お客様のプログラムの頒布者および外部エンド ユーザーに、本ライセンス条項と同等以上に再頒布可能コードを保護する条項に同意させること
+・	お客様のプログラムにお客様名義の有効な著作権表示を行うこと
+・	お客様のプログラムの頒布または使用に関する請求 (弁護士費用を含みます) について、マイクロソフトを免責、防御、および補償すること。
+iv.	再頒布の制限。お客様は、以下を行うことはできません。
+・	再頒布可能ソフトウェアの著作権、商標または特許の表示を改変すること。
+・	お客様のプログラムの名称の一部にマイクロソフトの商標を使用したり、お客様の製品がマイクロソフトから由来したり、マイクロソフトが推奨するように見せかけること。
+・	悪意のある、欺瞞的、あるいは違法なプログラムに再頒布可能ソフトウェアを含めること
+・	再頒布可能ソフトウェアの一部が除外ライセンスの対象となるよう、再頒布可能ソフトウェアのソース コードを改変または頒布すること。「除外ライセンス」とは、使用、改変または頒布の条件として以下を満たすことを要求するライセンスです。
+・	コードをソース コード形式で公表または頒布すること。または、
+・	その他の者がコードを改変できること
+3.	ライセンスの適用範囲。本ソフトウェアは使用許諾されるものであり、販売されるものではありません。本ライセンス条項は、お客様に本ソフトウェアを使用する限定的な権利を付与します。マイクロソフトはその他の権利をすべて留保します。適用される法令により上記の制限を超える権利が与えられる場合を除き、お客様は本ライセンス条項で明示的に許可された方法でのみ本ソフトウェアを使用することができます。お客様は、使用方法を制限するために本ソフトウェアに組み込まれている技術的制限に従わなければなりません。お客様は、以下を行うことはできません。
+・	本ソフトウェアの技術的な制限を回避して使用すること。
+・	本ソフトウェアをリバース エンジニアリング、逆コンパイル、または逆アセンブルすること。ただし、適用される法令により明示的に認められている場合を除きます。
+・	本ライセンス条項で規定されている数以上の数の本ソフトウェアの複製を作成すること。ただし、適用される法令により認められている場合を除きます。
+・	第三者が複製できるように本ソフトウェアを公開すること。
+・	本ソフトウェアをレンタル、リース、または貸与すること。
+・	本ソフトウェアまたは本ライセンス条項を第三者に譲渡すること。
+・	ソフトウェアを商用ソフトウェア ホスティング サービスで使用すること。
+4.	ドキュメント。お客様のコンピューターまたは内部ネットワークに有効なアクセス権を有する者は、お客様の内部的な参照を目的とする場合に限り、ドキュメントを複製して使用することができます。
+5.	他のデバイスへの移管。お客様は、本ソフトウェアをアンインストールし、お客様が使用する他のデバイスにインストールすることができます。ただし、この行為を複数のデバイス間で許諾コンテンツのライセンスを共有する目的で行うことはできません。
+6.	輸出規制。本ソフトウェアは米国および日本国の輸出に関する規制の対象となります。お客様は、本ソフトウェアに適用されるすべての国内法および国際法 (輸出対象国、エンド ユーザーおよびエンド ユーザーによる使用に関する制限を含みます) を遵守しなければなりません。詳細については www.microsoft.com/japan/exporting をご参照ください。
+7.	サポート サービス。本ソフトウェアは現状有姿で提供されます。そのため、マイクロソフトはサポート サービスを提供しない場合があります。
+8.	完全合意。本ライセンス条項およびお客様が使用する追加ソフトウェア、更新プログラム、インターネットベースのサービス、ならびにサポート サービスに関する条項は、本ソフトウェアおよびサポート サービスについてのお客様とマイクロソフトとの間の完全なる合意です。
+9.	準拠法。
+a.	日本。お客様が本ソフトウェアを日本国内で入手された場合、本ライセンス条項は日本法に準拠するものとします。
+b.	米国。お客様が本ソフトウェアを米国内で入手された場合、抵触法にかかわらず、本ライセンス条項の解釈および契約違反への主張は、米国ワシントン州法に準拠するものとします。消費者保護法、公正取引法、および違法行為を含みますがこれに限定されない他の主張については、お客様が所在する地域の法律に準拠します。
+c.	日本および米国以外。お客様が本ソフトウェアを日本国および米国以外の国で入手された場合、本ライセンス条項は適用される地域法に準拠するものとします。
+10.	法的効力。本ライセンス条項は、特定の法的な権利を規定します。お客様は、地域や国によっては、本ライセンス条項の定めにかかわらず、本ライセンス条項と異なる権利を有する場合があります。また、お客様が本ソフトウェアを取得された第三者に関する権利を取得できる場合もあります。本ライセンス条項は、お客様の地域または国の法律により権利の拡大が認められない限り、それらの権利を変更しないものとします。
+11.	あらゆる保証の免責。本ソフトウェアは、現状有姿のまま瑕疵を問わない条件で提供されます。本ソフトウェアの使用に伴う危険は、お客様の負担とします。マイクロソフトは、明示的な瑕疵担保責任または保証責任を一切負いません。本ライセンス条項では変更できない お客様の地域の法律による追加の消費者の権利が存在する場合があります。お客様の地域の国内法等によって認められる限り、マイクロソフトは、商品性、特定目的に対する適合性、および侵害の不存在に関する瑕疵担保責任または黙示の保証責任を負いません。
+12.	救済手段および責任の制限および除外。マイクロソフトおよびそのサプライヤーの責任は、700 円を上限とする直接損害に限定されます。その他の損害 (派生的損害、逸失利益、特別損害、間接損害、および付随的損害を含みますがこれらに限定されません) に関しては、一切責任を負いません。
+この制限は、以下に適用されるものとします。
+・	本ソフトウェア、サービス、第三者のインターネットのサイト上のコンテンツ (コードを含みます)、または第三者のプログラムに関連した事項
+・	契約違反、保証違反、厳格責任、過失、または不法行為等の請求 (適用される法令により認められている範囲において)
+この制限は、マイクロソフトが損害の可能性を認識していたか、または認識し得た場合にも適用されます。また、一部の国では付随的損害および派生的損害の免責、または責任の制限が認められないため、上記の制限事項が適用されない場合があります。
+
+****Open XML SDK の著作権情報****
+詳しくはhttp://msdn.microsoft.com/ja-jp/library/bb509417.aspxを参照してください。
+
+このドキュメントに記載されている情報 (URL 等のインターネット Web サイトに関する情報を含む) は、将来予告なしに変更することがあります。別途記載されていない場合、このドキュメントで使用している企業、組織、製品、ドメイン名、電子メール アドレス、ロゴ、人物、場所、出来事などの名称は架空のものです。実在する商品名、団体名、個人名などとは一切関係ありません。お客様ご自身の責任において、適用されるすべての著作権関連法規に従ったご使用を願います。このドキュメントのいかなる部分も、米国 Microsoft Corporation の書面による許諾を受けることなく、その目的を問わず、どのような形態であっても、複製または譲渡することは禁じられています。ここでいう形態とは、複写や記録など、電子的な、または物理的なすべての手段を含みます。ただしこれは、著作権法上のお客様の権利を制限するものではありません。
+
+マイクロソフトは、このドキュメントに記載されている内容に関し、特許、特許申請、商標、著作権、またはその他の無体財産権を有する場合があります。別途マイクロソフトのライセンス契約上に明示の規定のない限り、このドキュメントはこれらの特許、商標、著作権、またはその他の無体財産権に関する権利をお客様に許諾するものではありません。
+
+c 2010 Microsoft Corporation. All rights reserved.
+
+Microsoft、Access、ActiveX、ClearType、Excel、FrontPage、InfoPath、IntelliSense、JScript、MSDN、MS-DOS、MSN、OneNote、Outlook、PowerPoint、SharePoint、Silverlight、SmartArt、SQL Server、Visio、Visual Basic、Visual C#、Visual C++、Visual Studio、Win32、Windows、Windows PowerShell、Windows Server、および Windows Vista は、米国 Microsoft Corporation の米国およびその他の国における登録商標または商標です。
+
+その他すべての商標は各社が所有しています。
