@@ -1,0 +1,118 @@
+<!DOCTYPE html>
+<html>
+
+  <head>
+    <meta charset='utf-8'>
+    <meta http-equiv="X-UA-Compatible" content="chrome=1">
+    <meta name="description" content="Drafteditor : 独自の記法で最低限の構造化に対応するエディタです。UIはテキストエディタ風で、docx・xhtml・epub出力に対応しています。">
+
+    <link rel="stylesheet" type="text/css" media="screen" href="stylesheets/stylesheet.css">
+
+    <title>Drafteditor</title>
+  </head>
+
+  <body>
+
+    <!-- HEADER -->
+    <div id="header_wrap" class="outer">
+        <header class="inner">
+          <a id="forkme_banner" href="https://github.com/kurema/drafteditor">View on GitHub</a>
+
+          <h1 id="project_title">Drafteditor</h1>
+          <h2 id="project_tagline">独自の記法で最低限の構造化に対応するエディタです。UIはテキストエディタ風で、docx・xhtml・epub出力に対応しています。</h2>
+
+            <section id="downloads">
+              <a class="zip_download_link" href="https://github.com/kurema/drafteditor/zipball/master">Download this project as a .zip file</a>
+              <a class="tar_download_link" href="https://github.com/kurema/drafteditor/tarball/master">Download this project as a tar.gz file</a>
+            </section>
+        </header>
+    </div>
+
+    <!-- MAIN CONTENT -->
+    <div id="main_content_wrap" class="outer">
+      <section id="main_content" class="inner">
+        <h1>
+<a id="下書きエディタについて" class="anchor" href="#%E4%B8%8B%E6%9B%B8%E3%81%8D%E3%82%A8%E3%83%87%E3%82%A3%E3%82%BF%E3%81%AB%E3%81%A4%E3%81%84%E3%81%A6" aria-hidden="true"><span class="octicon octicon-link"></span></a>下書きエディタについて</h1>
+
+<h2>
+<a id="インストール方法" class="anchor" href="#%E3%82%A4%E3%83%B3%E3%82%B9%E3%83%88%E3%83%BC%E3%83%AB%E6%96%B9%E6%B3%95" aria-hidden="true"><span class="octicon octicon-link"></span></a>インストール方法</h2>
+
+<p>解凍後、Setup.exeをクリックし手順に従ってください。<br>
+このソフトはユーザー毎にインストールされます。  </p>
+
+<h2>
+<a id="このソフトについて" class="anchor" href="#%E3%81%93%E3%81%AE%E3%82%BD%E3%83%95%E3%83%88%E3%81%AB%E3%81%A4%E3%81%84%E3%81%A6" aria-hidden="true"><span class="octicon octicon-link"></span></a>このソフトについて</h2>
+
+<p>このソフトは、C#の練習用と自分がレポート等を作成するために2011年3月頃作成したものです。<br>
+最低限のタブエディタ機能を備え、epub・docx形式・xhtml等の各形式で出力することができます。<br>
+/の数で階層を示し、コメント等も利用できます。<br>
+作者がMarkdown記法の存在を知らない時期に作成したものです。機能性等の点でそちらの方が優れているので<strong>現時点ではMarkdown記法をお勧めします。</strong> 
+詳しくはヘルプを参照してください。  </p>
+
+<h2>
+<a id="ソースコードについて" class="anchor" href="#%E3%82%BD%E3%83%BC%E3%82%B9%E3%82%B3%E3%83%BC%E3%83%89%E3%81%AB%E3%81%A4%E3%81%84%E3%81%A6" aria-hidden="true"><span class="octicon octicon-link"></span></a>ソースコードについて</h2>
+
+<p>sourceフォルダ内にソースコードが同梱されています。<br>
+利用にはMicrosoft Visual Studio 2010またはMicrosoft Visual C# Express 2010以降が必要です。  </p>
+
+<h2>
+<a id="注意" class="anchor" href="#%E6%B3%A8%E6%84%8F" aria-hidden="true"><span class="octicon octicon-link"></span></a>注意</h2>
+
+<ul>
+<li>このソフトはメンテナンスを終了しています。機能追加やバグ修正等は行われません。寄付など頂いてもご期待にそえられないものとお考えください。</li>
+<li>docx形式で出力したファイルがOpenOffice.orgやLibreOfficeで読み込めないことがあります。これは、出力ファイルが最低限の内容しか含まないためです。ご注意ください。</li>
+<li>Click Onceに署名がされていない関係上、警告される事がありますが問題は有りません。無視してください。</li>
+</ul>
+
+<h1>
+<a id="バージョン履歴" class="anchor" href="#%E3%83%90%E3%83%BC%E3%82%B8%E3%83%A7%E3%83%B3%E5%B1%A5%E6%AD%B4" aria-hidden="true"><span class="octicon octicon-link"></span></a>バージョン履歴</h1>
+
+<p>1.0.0.2以前 2011/03頃～</p>
+
+<ul>
+<li>公開前のバージョンです。</li>
+</ul>
+
+<p>1.0.0.3 2012/04/02</p>
+
+<ul>
+<li>公開時のバージョンです。</li>
+<li>このバージョンでは、通常の環境ではインストールできない問題がありました。<br>
+ダウンロードなさった方には申し訳ありません。</li>
+</ul>
+
+<p>1.0.0.4 2012/04/26</p>
+
+<ul>
+<li>設定を変更し、通常の環境で起動できるようにしました。</li>
+<li>アイコンを追加しました。</li>
+<li>起動時にフォーカスが合わないバグを修正しました。</li>
+<li>重大なバグ等がない限り、本バージョンが最終になります。</li>
+</ul>
+
+<h2>
+<a id="ライセンスについて" class="anchor" href="#%E3%83%A9%E3%82%A4%E3%82%BB%E3%83%B3%E3%82%B9%E3%81%AB%E3%81%A4%E3%81%84%E3%81%A6" aria-hidden="true"><span class="octicon octicon-link"></span></a>ライセンスについて</h2>
+
+<p>このソフト及びソースコードは修正BSDライセンスで公開されていますが、一部のファイルはその限りではありません。<br>
+また、それにより修正BSDライセンスで保障されている権限が制限される可能性もありますが、その場合はそれらのファイルによる制限が優先されます。<br>
+詳しくはLICENSEを参照してください。  </p>
+
+<h2>
+<a id="アンインストール" class="anchor" href="#%E3%82%A2%E3%83%B3%E3%82%A4%E3%83%B3%E3%82%B9%E3%83%88%E3%83%BC%E3%83%AB" aria-hidden="true"><span class="octicon octicon-link"></span></a>アンインストール</h2>
+
+<p>「プログラムのアンインストール」等の項目から削除できます。</p>
+      </section>
+    </div>
+
+    <!-- FOOTER  -->
+    <div id="footer_wrap" class="outer">
+      <footer class="inner">
+        <p class="copyright">Drafteditor maintained by <a href="https://github.com/kurema">kurema</a></p>
+        <p>Published with <a href="http://pages.github.com">GitHub Pages</a></p>
+      </footer>
+    </div>
+
+    
+
+  </body>
+</html>
