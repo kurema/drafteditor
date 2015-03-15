@@ -1,6 +1,7 @@
 # 下書きエディタについて
 
 ## インストール方法
+レポジトリまたはhttps://github.com/kurema/drafteditor/releases からsetup.zipをダウンロードします。  
 解凍後、Setup.exeをクリックし手順に従ってください。  
 このソフトはユーザー毎にインストールされます。  
 
