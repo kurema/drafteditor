@@ -12,9 +12,8 @@ https://github.com/kurema/drafteditor/releases からdrafteditor*.zipをダウ�
 作者がMarkdown記法の存在を知らない時期に作成したものです。機能性等の点でそちらの方が優れているので**現時点ではMarkdown記法をお勧めします。**  
 詳しくはヘルプを参照してください。  
 
-## ソースコードについて
-sourceフォルダ内にソースコードが同梱されています。  
-利用にはMicrosoft Visual Studio 2010またはMicrosoft Visual C# Express 2010以降が必要です。  
+## スクリーンショット
+![スクリーンショット](/screenshot/win1.png)
 
 ## 注意
 * このソフトはメンテナンスを終了しています。機能追加やバグ修正等は行われません。寄付など頂いてもご期待にそえられないものとお考えください。
